@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YegnaPharma:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YegnaPharma_jar</output-path>
+    <root id="archive" name="YegnaPharma.jar">
+      <element id="module-output" name="YegnaPharma" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-core-2.20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-2.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-simple-2.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqlite-jdbc-3.46.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
